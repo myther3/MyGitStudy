@@ -1,0 +1,5 @@
+name : jerry
+
+https://github.com/myther3/MyGitStudy.git
+
+git remote add origin https://github.com/myther3/MyGitStudy.git
