@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+name : john
+=======
 name : dog
+>>>>>>> 8ae561f0c738264509de8b9963ae6589df20e1be
