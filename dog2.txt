@@ -1,1 +1,1 @@
-naem : mung
+name : mung
